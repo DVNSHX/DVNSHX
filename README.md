@@ -4,6 +4,8 @@
 
 ### Hi, my name is Devansh👋 and I ❤️ Data Analytics
 
+Find My Socials here: <a href='https://www.linkedin.com/in/devansh-tyagi-a27927194/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=268BDC&labelColor=121313&color=black'/></a>
+
 **Field of interests**: Data Analytics, Business Analytics, Data Science, Business Intelligence, Marketing Analytics
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
@@ -40,4 +42,3 @@
 [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)]
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-More information in my [!LinkedIn]([https://www.linkedin.com/in/devansh-tyagi-a27927194])
