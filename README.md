@@ -17,11 +17,11 @@
 | Job Position                      | Company            | Field                                        | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
 | Application Development Associate | Accenture          | System Analysis, BASIS Consultant            | 01.07.2018 — 01.05.2020    |
-| Team Member                       | KIET Ghaziabad     | Web Development & Design, Event Organisation | 01.12.2018 — 01.01.2020    |
+| Team Member                       | DSC Ghaziabad      | Web Development & Design, Event Organisation | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
 - **Bachelor's degree** @ Abdul Kalam Technical University (2017-2021)
-  - Relevant CourseWork: 
+  - Relevant CourseWork: AI, ML, Cloud Computing, Statistics
 
 ### Projects 🐾
 - Will Add Soon!
@@ -40,4 +40,4 @@
 [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)]
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-More information in my [LinkedIn][https://www.linkedin.com/in/devansh-tyagi-a27927194]
+More information in my [!LinkedIn]([https://www.linkedin.com/in/devansh-tyagi-a27927194])
