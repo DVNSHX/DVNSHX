@@ -32,12 +32,12 @@
 <!--- - [How to start a career in DS](https://youtu.be/_YrX25CpJWs) @ REU Data Science Club -->
 
 ### Certifications 📜
-- [Practical Reinforcement Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/AUVVSHZFH7XZ) @ Coursera
-- [Introduction to Deep Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/D4VMH74AJHHK) @ Coursera
-- [Bayesian Methods for Machine Learning (with honors)](https://www.coursera.org/account/accomplishments/certificate/5R62SGB3G6GF) @ Coursera
-- [Hadoop. System for processing large amounts of data](https://stepik.org/cert/166893) @ Stepik
+- [Design and Analysis of Algorithms](https://nptel.ac.in/noc) @ NPTEL - National Programme on Technology Enhanced Learning
+- [Introduction to Statistics](coursera.org/verify/KATESQ4F3SKA) @ Coursera
+- [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
 
 ### GitHub Stats ⭐
-[![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)]
+<!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-More information in my [LinkedIn](https://www.linkedin.com/in/dayyass/)
+More information in my [LinkedIn]([https://www.linkedin.com/in/dayyass/](https://www.linkedin.com/in/devansh-tyagi-a27927194/))
