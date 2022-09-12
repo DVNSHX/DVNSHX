@@ -6,10 +6,6 @@
 
 #### Socials:
 <a href='https://www.linkedin.com/in/devansh-tyagi-a27927194/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
-<a href='' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=DB0063&color=DB0063'/></a>
-<a href='' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-100000?style=for-the-badge&logo=Tableau&logoColor=FFFFFF&labelColor=FFE001&color=FFE001'/></a>
-<a href='' target="_blank"><img alt='Power BI' src='https://img.shields.io/badge/PowerBI-100000?style=for-the-badge&logo=Power BI&logoColor=FFFFFF&labelColor=0BD77C&color=0BD77C'/></a>
-<a href='' target="_blank"><img alt='Googlesheets' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Googlesheets&logoColor=FFFFFF&labelColor=017BED&color=017BED'/></a>
 
 **Field of interests**: Data Analytics, Business Analytics, Data Science, Business Intelligence, Marketing Analytics
 
@@ -17,6 +13,11 @@
 
 #### Skills 🛠️:
 <a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=900190&color=900190'/></a>
+<a href='' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/SQL-100000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=DB0063&color=DB0063'/></a>
+<a href='' target="_blank"><img alt='Tableau' src='https://img.shields.io/badge/Tableau-100000?style=for-the-badge&logo=Tableau&logoColor=FFFFFF&labelColor=FFE001&color=FFE001'/></a>
+<a href='' target="_blank"><img alt='Power BI' src='https://img.shields.io/badge/PowerBI-100000?style=for-the-badge&logo=Power BI&logoColor=FFFFFF&labelColor=0BD77C&color=0BD77C'/></a>
+<a href='' target="_blank"><img alt='Googlesheets' src='https://img.shields.io/badge/Excel-100000?style=for-the-badge&logo=Googlesheets&logoColor=FFFFFF&labelColor=017BED&color=017BED'/></a>
+
 
 ### Work experience 👔
 | Job Position                      | Company            | Field                                        | Work Period                |
