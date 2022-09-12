@@ -4,7 +4,7 @@
 
 ### Hi, my name is Devansh👋 and I ❤️ Data Analytics
 
-##Socials:
+# Socials:
 <a href='https://www.linkedin.com/in/devansh-tyagi-a27927194/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
 
 
