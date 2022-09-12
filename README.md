@@ -2,7 +2,7 @@
 ![](https://img.shields.io/github/followers/DVNSHX?style=social)<br>
 ![](https://img.shields.io/github/stars/DVNSHX?style=social)<br>
 
-### Hi, my name is # Devansh👋 and I ❤️ Data Analytics
+### Hi, my name is Devansh👋 and I ❤️ Data Analytics
 
 #### Socials:
 <a href='https://www.linkedin.com/in/devansh-tyagi-a27927194/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=for-the-badge&logo=Linkedin&logoColor=FFFFFF&labelColor=0035F7&color=0035F7'/></a>
@@ -12,16 +12,14 @@
 
 <!--- **Curriculum Vitae**: [cv.pdf](https://github.com/dayyass/dayyass/blob/main/cv.pdf) -->
 
-### Skills 🛠️
-- **Languages**: &nbsp;                          Python, SQL
-- **DS/ML/DL**: &nbsp;&nbsp;                     Pandas, Numpy, Beautiful Soup, Seaborn
-- **Tools**:  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     Tableau, Power BI, MS Excel, MS Powerpoint, PostgreSQL 
+#### Skills 🛠️:
+<a href='' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=900190&color=900190'/></a>
 
 ### Work experience 👔
 | Job Position                      | Company            | Field                                        | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
 | Application Development Associate | Accenture          | System Analysis, BASIS Consultant            | 01.07.2018 — 01.05.2020    |
-| Team Member                       | DSC Ghaziabad      | Web Development & Design, Event Organisation | 01.12.2018 — 01.01.2020    |
+| Team Member                       | DSC KIET           | Web Development & Design, Event Organisation | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
 - **Bachelor's degree** @ Abdul Kalam Technical University (2017-2021)
