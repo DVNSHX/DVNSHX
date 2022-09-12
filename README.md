@@ -40,4 +40,4 @@
 [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)]
 <!-- (https://github.com/anuraghazra/github-readme-stats) -->
 
-More information in my [LinkedIn]([https://www.linkedin.com/in/devansh-tyagi-a27927194])
+More information in my [LinkedIn][https://www.linkedin.com/in/devansh-tyagi-a27927194]
