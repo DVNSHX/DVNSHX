@@ -44,5 +44,3 @@
 
 ### GitHub Stats ⭐
 <!-- [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)] -->
-(https://github.com/DVNSHX/github-readme-stats)
-
