@@ -43,6 +43,6 @@
 - [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
 
 ### GitHub Stats ⭐
-[![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)]
-<!-- (https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)] -->
+(https://github.com/DVNSHX/github-readme-stats)
 
