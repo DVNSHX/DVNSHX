@@ -41,6 +41,3 @@
 - [Design and Analysis of Algorithms](https://nptel.ac.in/noc) @ NPTEL - National Programme on Technology Enhanced Learning
 - [Introduction to Statistics](coursera.org/verify/KATESQ4F3SKA) @ Coursera
 - [Google Data Analytics](https://coursera.org/verify/professional-cert/XHPBBERU4XGF) @ Coursera
-
-### GitHub Stats ⭐
-<!-- [![Devansh's github stats](https://github-readme-stats.vercel.app/api?username=DVNSHX&show_icons=true)] -->
