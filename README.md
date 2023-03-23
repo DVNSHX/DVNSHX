@@ -22,7 +22,7 @@
 ### Work experience 👔
 | Job Position                      | Company            | Field                                        | Work Period                |
 | --------------------------------- | ------------------ | -------------------------------------------- | -------------------------- |
-| Application Development Associate | Accenture          | System Analysis, BASIS Consultant            | 01.07.2018 — 01.05.2020    |
+| Application Development Associate | Accenture          | System Data Analyst                          | 01.07.2018 — 01.05.2020    |
 | Team Member                       | DSC KIET           | Web Development & Design, Event Organisation | 01.12.2018 — 01.01.2020    |
 
 ### Education 🎓
